@@ -1,0 +1,40 @@
+
+/**{
+    border:solid;
+}*/
+p{
+    color:blue;
+}
+h2{
+    color:crimson
+}
+.header{
+    background-color: cadetblue;
+    display:flex;
+    justify-content: space-between
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.item img{
+    border-radius: 20px;
+    border-color: rgb(195, 152, 219);
+    border-style: inset;
+    border-width:10px
+
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+
+}
+
